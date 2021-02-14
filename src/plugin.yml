@@ -1,0 +1,17 @@
+name: TrooperHX
+main: com.baileybarberscargill.trooper.Main
+version: 1.0
+author: Bayfish
+description: Plugin for TrooperHX
+api-version: 1.15
+commands:
+  enablenether:
+    description: Enable the nether
+  disablenether:
+    description: Disable the nether
+  enableend:
+    description: Enable the end
+  disableend:
+    description: Disable the end
+  ping:
+    description: Returns your ping
